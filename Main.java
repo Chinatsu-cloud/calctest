@@ -14,7 +14,7 @@ public class Main {
         System.out.println("負の整数number2の値：" + number2);
 
         String str3 = "1011";
-        String str4 = "null";
+        String str4 = "nullnull";
 
         int number3 = Integer.parseInt(str3,2);
         int number4 = Integer.parseInt(str4,16);
